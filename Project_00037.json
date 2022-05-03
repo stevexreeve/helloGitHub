@@ -1,0 +1,36 @@
+{
+  "type": "Project",
+  "id": "00037",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 13:41:09",
+  "serialized": 1651066869723,
+  "serializedBy": "Steve Reeve",
+  "title": "ZipUp House",
+  "description": "Originally designed in response to a competition for innovation in domestic architecture, the Zip-Up House, and a later development of it, Zip-Up 2, were Rogers’ first speculative exploration of what a modern house could be like.",
+  "date": "1967-1969",
+  "client": "DuPont",
+  "longLat": "-1.117604 / 50.695374",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Sally Appleby",
+    "John Doggart",
+    "Marco Goldschmeid",
+    "Richard Rogers",
+    "Su Rogers",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "overview": "Originally designed in response to a competition for innovation in domestic architecture, the Zip-Up House, and a later development of it, Zip-Up 2, were Rogers’ first speculative exploration of what a modern house could be like, free of the constraints of traditional methods of construction. Though never fully realised, it was a model for the house that Rogers built for his parents in Wimbledon.\n\nFollowing Charles and Ray Eames’ own house in California assembled in 1949 like a kit of parts from prefabricated components, the Zip-Up House would have been based on mass-produced parts. It was designed to use panels originally intended for refrigerated trucks. Its windows were made by automotive industry manufacturers for use in buses, sealed with neoprene zips.\n\n\nIt would have offered excellent insulation and rapid construction at low cost. Extending the house with extra modules would have been a simple process. The interior, with no fixed structural walls to contend with, would have been equally adaptable.\n\nRunning costs would also be minimised – the structural panels giving insulation value seven times that of a traditional house of the 1970s so that a three bedroom house could be heated by no more than a three-kilowatt heater.",
+  "dimensions": [],
+  "companies": [
+    {
+      "elementId": "web:architect",
+      "label": "Architect",
+      "value": "Richard + Su Rogers"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "Project",
+  "id": "00022",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 13:40:04",
+  "serialized": 1651066804239,
+  "serializedBy": "Steve Reeve",
+  "title": "Reliance Controls",
+  "description": "Reliance Controls is neither a factory, nor an office building nor a research station but a combination of all three. After its completion, the work of Rogers and of Norman Foster turned in increasingly radical (if divergent) directions.",
+  "date": "1967",
+  "client": "Reliance Controls Ltd",
+  "location": "Swindon, UK",
+  "longLat": "-1.75512 / 51.57040",
+  "constructionCost": "Cost per ft²: £ 3/13s",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Norman Foster",
+    "Wendy Foster",
+    "Frank Peacock",
+    "RIchard Rogers",
+    "Su Rogers",
+    "Mark Sutcliffe"
+  ],
+  "partners": [
+    "Richard Rogers",
+    "Norman Foster"
+  ],
+  "overview": "Reliance Controls is neither a factory, nor an office building nor a research station but a combination of all three. After its completion, the work of Rogers and of Norman Foster turned in increasingly radical (if divergent) directions.\n\nThough it has become one of the models for the new industrial and commercial architecture of the late 20th century (it was clearly the progenitor for later developments such as Stockley Park), Reliance Controls took its inspiration initially from the Case Study Houses, especially Charles and Ray Eames’ famous Californian house of 1949 (which, in due course, inspired several early Rogers' houses), although the water-tower, a quotation from Alison and Peter Smithsons’ famous Hunstanton School, can be related to the Modernist tradition in Britain.\n\n\nThe brief demanded economy, speed of construction – the client laid down strict cost guidelines and insisted that the building be ready within ten months: it was finished early and to budget. The building also had to reflect the changing relationship between ‘worker’ and mangers: it is essentially a ‘democratic’, antihierarchical shed which made a nonsense of the old division of factories into ‘shop floor’ and managerial space.\n\n\nThe idea of the building was clearly expressed in its structure – with everything contained within the grid of the steel frame and sheltered by one large roof. The intention was to create a common-sense model for the workspace of the future. Reliance Controls made use of ordinary, cheap materials yet the result was a building of extraordinary elegance and integrity. The steel sheeting used for the cladding had never been used in this way before in Britain – 3.6 metre high panels without intermediate support were considered daring. The building was in essence a highly flexible building, with moveable internal partitions allowing production, research or managerial space to grow or contract as required, but when Reliance Controls vacated the factory and it faced demolition, Rogers accepted the situation stoically: he deplores the idea of preserving what is functionally obsolete.",
+  "dimensions": [
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "11 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:architect",
+      "label": "Architect",
+      "value": "Team 4"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Anthony Hunt Associates"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "GN Haden & Sons Ltd"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "GA Hanscomb Partnership"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Pope Brothers"
+    }
+  ]
+}

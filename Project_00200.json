@@ -1,0 +1,86 @@
+{
+  "type": "Project",
+  "id": "00200",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:09:49",
+  "serialized": 1650989389976,
+  "serializedBy": "Steve Reeve",
+  "title": "Inmos Microprocessor Factory",
+  "description": "The INMOS scheme began as a design for a model microchip factory, which could be built quickly (operational within a year of start on-site) in a wide variety of locations, and could be expanded or otherwise adapted without disruption to production.",
+  "date": "1982-1987",
+  "client": "INMOS Ltd",
+  "location": "Gwent, Wales, UK",
+  "longLat": "-3.022525 / 51.565982",
+  "typologies": [
+    "Industrial"
+  ],
+  "team": [
+    "David Bartlett",
+    "Pierre Botschi",
+    "Mike Davies",
+    "Sally Eaton",
+    "Michael Elkan",
+    "Marco Goldschmied",
+    "Kunimi Hayashi",
+    "Tim Inskip",
+    "Julia Marks",
+    "Peter McMunn",
+    "Richard Rogers",
+    "John Young"
+  ],
+  "partners": [
+    "John Young"
+  ],
+  "overview": "The INMOS scheme began as a design for a model microchip factory, which could be built quickly (operational within a year of start on-site) in a wide variety of locations, and could be expanded or otherwise adapted without disruption to production. The technical brief demanded highly controlled clinical conditions (protected from dust and vibration) for the manufacture of microprocessors, as well as conventional office space and a staff canteen.\n\n\nThe technical services run externally above a central ‘street’, supported by a steel framework from which the roof is suspended. This ‘street’ is the heart of the scheme, linking the ‘clean’ (microchip production) and the ‘dirty’ (office and support) wings of the building. Above this street, an exoskeleton of masts provides support to services and to the two wings, allowing for column-free and extendable space.\n\nOff-site fabrication allows for quick assembly, with a flexible system that allows for the use of solid, opaque or transparent panels in cladding.",
+  "dimensions": [
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "8,900 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Anthony Hunt Associates"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "YRM Engineers"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "GA Hanscomb Partnership"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Laing Management Contracting Ltd"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "1986",
+      "award": "Constructa Preis for Overall Excellence in the Field of Architecture"
+    },
+    {
+      "rowId": "2",
+      "year": "1983",
+      "award": "Eurostructpress Award"
+    },
+    {
+      "rowId": "3",
+      "year": "1983",
+      "award": "Financial Times 'Architecture at Work' Award Commendation"
+    },
+    {
+      "rowId": "4",
+      "year": "1982",
+      "award": "The Structural Steel Design Award"
+    }
+  ]
+}

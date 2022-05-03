@@ -1,0 +1,77 @@
+{
+  "type": "Project",
+  "id": "00012",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 15:20:52",
+  "serialized": 1650986452857,
+  "serializedBy": "Steve Reeve",
+  "title": "IRCAM",
+  "description": "The Centre Pompidou brings together the themes which have characterised Rogers’ architecture from the mid 1960s – skin and structure, technology and flexibility, movement and anti-monumentalism.",
+  "date": "1971-1977",
+  "client": "Ministére des Affaires Culturelles, Ministére de l’Education Nationale",
+  "location": "Paris, France",
+  "longLat": "2.3506263 / 48.8601633",
+  "constructionCost": "£4,750,000",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "team": [
+    "Mike Davies",
+    "Alphons Oberhofer",
+    "Noriaki Okabe",
+    "Renzo Piano",
+    "Bernard Plattner",
+    "Richard Rogers",
+    "Ken Rupard",
+    "Jan Sircus",
+    "Walter Zbinden"
+  ],
+  "partners": [
+    "Mike Davies"
+  ],
+  "overview": "The <a href=\"https://www.rsh-p.com/manager/projects/education/lse-centre-building/\">Centre Pompidou</a> brings together the themes which have characterised Rogers’ architecture from the mid 1960s – skin and structure, technology and flexibility, movement and anti-monumentalism.\n\nThe building was envisaged as a cross between ‘an information-oriented computerised Times Square and the British Museum’, a democratic place for all people and the centrepiece of a regenerated quarter of the city.\n\nHalf of the total available site area was set aside as a public square which meant that the Centre had to be tall enough to accommodate 90,000 m² (one million ft2) of space. The decision to place structure and services on the outside was driven by the need for internal flexibility, as a result providing huge expanses of uninterrupted space on massive, open floors – the staggering scale of these internal spaces is free from the intrusion of services and stairs.\n\nThe structural system provided for a braced and exposed steel superstructure with reinforced concrete floors.\n\n\nExternal services give scale and detail to the façades, while celebration of movement and access is provided by lifts and escalators. The result is a highly expressive, strongly articulated building that has come to be seen as a Parisian landmark.\n\nYet the achievement at Beaubourg is urbanistic as much as architectural. The building and great public square were intended to revitalise an area of Paris that had been in decline. The neighbouring Marais district, now vibrant and multi-cultural, underlines the success of the Pompidou’s role as a catalyst for urban regeneration.\n\nThe Pompidou’s radicalism is still striking and has proved attractive to a vast public: more than seven million people visit the building every year. The building and its extraordinary contents remain as popular as ever, while crowds fill the square, clustering around musicians, acrobats and fire-eaters. Beaubourg – inside and out – remains as magnetic as ever.",
+  "dimensions": [
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "6 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:architect",
+      "label": "Architect",
+      "value": "Piano + Rogers"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Ove Arup & Partners"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Ove Arup & Partners"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Ove Arup & Partners"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Cuno Brullmann"
+    },
+    {
+      "elementId": "web:acousticConsultant",
+      "label": "Acoustic Consultant",
+      "value": "Peutz and Associates"
+    },
+    {
+      "elementId": "web:scenographer",
+      "label": "Scenographer",
+      "value": "G L Francois"
+    }
+  ]
+}

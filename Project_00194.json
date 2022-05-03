@@ -1,0 +1,66 @@
+{
+  "type": "Project",
+  "id": "00194",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 13:44:12",
+  "serialized": 1651067052745,
+  "serializedBy": "Steve Reeve",
+  "title": "Coin Street",
+  "description": "This mixed development on the south bank of the Thames, close to the West End and the City has proved to be a great test bed of ideas in city planning for the practice.",
+  "date": "1979-1983",
+  "client": "Greycoat Commercial Estates Ltd",
+  "location": "London, UK",
+  "longLat": "-0.10987 / 51.50691",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "partners": [
+    "Richard Rogers",
+    "Laurie Abbott"
+  ],
+  "overview": "This mixed development on the south bank of the Thames, close to the West End and the City has proved to be a great test bed of ideas in city planning for the practice, outlining many of the principles explored by the practice in ‘<a href=\"projects/masterplanning/london-as-it-could-be/\">London as it Could be</a>’ and the work of the Urban Task Force.\n\nThe site was an area of mostly cleared land close to Denys Lasdun’s National Theatre and to Waterloo and Blackfriars bridges. In the event the proposals for Coin Street fell victim to a fierce planning battle and were abandoned.\n\n\nDrawing strongly on the architectural language of the Lloyd’s building, the scheme proposed to connect Waterloo station to the City with a lofty glazed pedestrian arcade and a new footbridge across the river. The great glazed arcade was inspired by the Galleria Vittorio Emmanuele in Milan – full of light and shade and a vibrant meeting place appropriate to the changeable British climate. Pontoons were to house bars, restaurants and other amenities.\n\n\nThe proposed mixed scheme – 92,500 m² of offices, 18,500 m² of housing, 6,500 m² of leisure facilities and 10,500 m² of retail and restaurants – intended to bring new life to the South Bank. Ground level space was largely public and it offered a vision of a new London, where public and private domains were well balanced - commercial profit combining with public benefits on a huge site and against a taut political backdrop.",
+  "dimensions": [
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "128 000 m²"
+    },
+    {
+      "elementId": "web:officeArea",
+      "label": "Offices",
+      "value": "92,500 m²"
+    },
+    {
+      "elementId": "web:housing",
+      "label": "Housing",
+      "value": "18,500 m²"
+    },
+    {
+      "elementId": "web:leisure",
+      "label": "Leisure",
+      "value": "6,500 m²"
+    },
+    {
+      "elementId": "web:retailAndRestaurants",
+      "label": "Retail and restaurants",
+      "value": "10,500 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Ove Arup and Partners"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Gardiner and Theobald"
+    },
+    {
+      "elementId": "web:trafficEngineer",
+      "label": "Traffic Engineer",
+      "value": "W.R. Davidge and Partners"
+    }
+  ]
+}
