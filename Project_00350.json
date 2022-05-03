@@ -1,0 +1,67 @@
+{
+  "type": "Project",
+  "id": "00350",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:12:36",
+  "serialized": 1650989556975,
+  "serializedBy": "Steve Reeve",
+  "title": "Tidal Basin Pumping Station",
+  "description": "This bright and cheerful structure is actually a series of storm-water pumping stations, required as part of the development of London Docklands.",
+  "date": "1987-1988",
+  "client": "LDDC / Sir William Halcrow & Partners",
+  "location": "London, UK",
+  "longLat": "0.016932 / 51.508572",
+  "typologies": [
+    "Industrial"
+  ],
+  "team": [
+    "Brian Bell",
+    "Paul Cook",
+    "Mike Davies",
+    "Wiliam Firebrace",
+    "Marco Goldschmeid",
+    "Tim Inskip",
+    "Amarjit Kalsi",
+    "Maralyn Lai",
+    "Werner Lang",
+    "Richard Rogers",
+    "John Sorcinelli",
+    "John Young"
+  ],
+  "partners": [
+    "Mike Davies",
+    "Amo Kalsi"
+  ],
+  "overview": "This bright and cheerful structure is actually a series of storm-water pumping stations, required as part of the development of London Docklands.\n\nThe buildings are effectively containers for pumping machinery and therefore durability and security are the principal requirements but the practice has imbued a sense of joy into an otherwise very practical project.\n\n\nMost of the machinery is 25 m below ground level. The main structure is of blue painted concrete – one circular drum placed concentrically within the radius of another. The curtain walls of the outer circle are made of translucent polycarbonate, providing a view of the ‘keep’ within this 20th century industrial castle.\n\n\nThe form of this building was generated through the close collaboration between architect and the engineer, Halcrow  Partners. The end result clearly expresses the nature of the operations performed within, while at the same time celebrates our great Victorian engineering tradition.",
+  "dimensions": [
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "850 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Sir William Halcrow & Partners"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Sir William Halcrow & Partners"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Nuttall"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "1992",
+      "award": "Constructa Preis"
+    }
+  ]
+}
