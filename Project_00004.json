@@ -1,0 +1,36 @@
+{jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+  "type": "Project",
+  "id": "00004",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 13:34:25",
+  "serialized": 1651066465245,
+  "serializedBy": "Steve Reeve",
+  "title": "B&B Italia",
+  "description": "Piero Busnelli, the Managing Director of the Italian furniture manufacturer, B&B Italia, so admired the designs for the Centre Pompidou that he commissioned Piano + Rogers to design his company’s new offices.",
+  "date": "1972-1973",
+  "client": "B&B Italia",
+  "location": "Como, Italy",
+  "longLat": "9.128015 / 45.697622",
+  "typologies": [
+    "Industrial"
+  ],
+  "team": [
+    "Cuno Brullman",
+    "Flavio Marano",
+    "Renzo Piano",
+    "Richard Rogers"
+  ],
+  "partners": [
+    "Richard Rogers",
+    "Renzo Piano"
+  ],
+  "overview": "Piero Busnelli, the Managing Director of the Italian furniture manufacturer, BB Italia, so admired the designs for the <a href=\"projects/culture-and-leisure/centre-pompidou/\">Centre Pompidou</a> that he commissioned Piano + Rogers to design his company’s new offices.\n\nThe brief called for a high degree of flexibility and this building reflects the practice’s enthusiasm for open-ended systems that can be added to or subtracted from – it has a clarity and sense of order coupled with an elegant economy of means.\n\n\nThe idea was to reduce everything to a very slender structure, a sort of filigree: it required a great deal of patience and some acrobatics. The structure consists of a series of lightweight portal frames from which the highly glazed office container is suspended, with servicing occupying the space between the two. The interior of the building is entirely column-free, contained within a box suspended from a series of twenty tubular steel portal frames spanning 30 metres. Services are restricted to the perimeter, obviating the need for fixed internal elements – walls and partitions can be freely moved around. The elevation of the office floor provides for electronic information services, plant-room and storage. In the bridge which links the offices to the existing factory lightness is taken to a new extreme.",
+  "dimensions": [],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Flavio Marano"
+    }
+  ]
+}
